@@ -1,0 +1,53 @@
+
+body{
+  background-color: #E8F1F5;
+}
+
+ hr{
+
+   border-style: none;
+   border-top-style: dotted ;
+   border-color: grey;
+   border-width: 5px;
+   width: 10%;
+   margin: auto;
+
+ }
+
+ img{
+
+   height: 300px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+
+
+ }
+
+h1{
+   text-align:center;
+   color: #406882;
+
+}
+
+h2{
+  text-align:center;
+  color: #406882;
+  margin: auto;
+}
+
+ h3{
+    color: #406882;
+    margin: auto;
+    margin-left: 15px;
+ }
+
+ p{
+   margin: auto;
+   margin-left: 15px;
+ }
+
+ a{
+   margin-left: 15px;
+ }
